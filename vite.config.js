@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
     plugins: [react()],
-    base: "/", // 중요! Vercel에서 JS 번들을 찾게 함
+    base: "/portfolio/", // ⚠️ 여기를 자신의 GitHub 리포 이름으로 바꾸기
 });
