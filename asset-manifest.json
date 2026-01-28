@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bansunhong/portfolio.git/static/css/main.4b18bbd0.css",
+    "main.js": "/bansunhong/portfolio.git/static/js/main.f2edaf8d.js",
+    "static/media/p9.png": "/bansunhong/portfolio.git/static/media/p9.d134ca0b5bd3b30bba87.png",
+    "static/media/about_me.jpg": "/bansunhong/portfolio.git/static/media/about_me.4816c8e8021de8c77709.jpg",
+    "static/media/parallax3.jpg": "/bansunhong/portfolio.git/static/media/parallax3.e33a5779e8f97b9996b6.jpg",
+    "static/media/parallax1.jpg": "/bansunhong/portfolio.git/static/media/parallax1.cd1453f3f044352cfe2d.jpg",
+    "static/media/p3.jpg": "/bansunhong/portfolio.git/static/media/p3.6a169a3f6b645bbebaa2.jpg",
+    "static/media/p2.jpg": "/bansunhong/portfolio.git/static/media/p2.d2e21ac3ad2873df2fe9.jpg",
+    "static/media/p7.jpg": "/bansunhong/portfolio.git/static/media/p7.4a9c4d4f7d65b30b8b1d.jpg",
+    "static/media/parallax2.jpg": "/bansunhong/portfolio.git/static/media/parallax2.e9761a29c08eae202a02.jpg",
+    "static/media/p1.jpg": "/bansunhong/portfolio.git/static/media/p1.f5672caa490dd4dcae7d.jpg",
+    "static/media/p5.jpg": "/bansunhong/portfolio.git/static/media/p5.decd8bd3eb837fc4fb30.jpg",
+    "static/media/p8.jpg": "/bansunhong/portfolio.git/static/media/p8.94322d3b7e4b22776779.jpg",
+    "static/media/p6.jpg": "/bansunhong/portfolio.git/static/media/p6.321ab37c47d757988f00.jpg",
+    "index.html": "/bansunhong/portfolio.git/index.html",
+    "main.4b18bbd0.css.map": "/bansunhong/portfolio.git/static/css/main.4b18bbd0.css.map",
+    "main.f2edaf8d.js.map": "/bansunhong/portfolio.git/static/js/main.f2edaf8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b18bbd0.css",
+    "static/js/main.f2edaf8d.js"
+  ]
+}
